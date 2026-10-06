@@ -6,3 +6,6 @@ while True:
     if cont >=5:
         print("o loop parou ")
         break
+idade = 32
+nome = "joao bacar baldé"
+print(f'meu nome eh {nome} e tenho {idade} anos de idade')
